@@ -1,2 +1,3 @@
 techfestapp
 ===========
+Copyright Virtualinit
